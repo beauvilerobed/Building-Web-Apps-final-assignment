@@ -1,4 +1,4 @@
-Broken Rock Paper Scissors
+Rock Paper Scissors
 --------------------------
 
 Here is a URL to the broken version of this application:
